@@ -1,1 +1,1 @@
-# MedicAID-EY-Techathon-4.0
+![alt text](https://github.com/[PrateekR16]/[MedicAID]/blob/[readme-imgs]/image.jpg?raw=true)
