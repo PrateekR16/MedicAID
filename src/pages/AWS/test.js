@@ -10,12 +10,6 @@ function Test() {
 
     const uploadFile = async () => {
 
-        const client = new TranscribeClient({
-            region: "us-east-1",
-            credentials: {
-                accessKeyId: "AKIAX6WVQZEVBR3IKP76",
-                secretAccessKey: "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",
-            }
         });
         const run = async () => {
             try {
