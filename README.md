@@ -10,8 +10,6 @@
 ![alt text](https://github.com/PrateekR16/MedicAID/blob/readme-imgs/images/image6.png)
 
 
-## Deployed  Link : 
-![https://frontend--medicaid-ey.netlify.app](https://frontend--medicaid-ey.netlify.app/)
 
 # Credentials
 Please ensure that you keep your credentials secure and do not share them with unauthorized individuals. If you encounter any issues with your account or need assistance, please contact the administrator.
